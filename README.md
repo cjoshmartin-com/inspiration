@@ -10,3 +10,4 @@ links to website to make yourself a better programmer/designer
 
 ## Great websites Design
 * https://www.section32.com/
+* https://julian.is/
