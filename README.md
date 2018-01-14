@@ -12,3 +12,4 @@ links to website to make yourself a better programmer/designer
 * https://www.section32.com/
 * https://julian.is/
 * https://drivy.engineering/
+* https://devtty.io/archives/
