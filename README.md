@@ -13,3 +13,6 @@ links to website to make yourself a better programmer/designer
 * https://julian.is/
 * https://drivy.engineering/
 * https://devtty.io/archives/
+
+## Blogs
+* https://www.joelonsoftware.com/about-me/
