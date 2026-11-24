@@ -15,5 +15,6 @@ links to website to make yourself a better programmer/designer
 * https://devtty.io/archives/
 * https://maxheinritz.com
 * https://derwen.ai/
+* https://neal.fun/
 ## Blogs
 * https://www.joelonsoftware.com/about-me/
